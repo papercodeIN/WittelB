@@ -1,5 +1,7 @@
 <h1 align = "center">🌟WittelB🌟</h1>
+
 ---
+
 <p align="center">
   <span style="font-size: 1.1em; color: #FFD700; font-weight: bold;">✨ Enjoying this project? Support our work! ✨</span>
 </p>
