@@ -111,21 +111,21 @@ $\color{Green}\Huge{\textbf{WIN-IO-8AIME | 8 Channel Analog Input Modbus TCP/IP 
 
 ## 
 
-$\color{Green}\Huge{\textbf{WIN-IO-8DDM | 8 Digital Input & 8 Digital Output Modbus Serial/RS485 Card}}$
+$\color{Green}\Huge{\textbf{WIN-IO-8DDM: 8 Digital Input and 8 Digital Output Modbus Serial/RS485 Card}}$
 
 1. 🆓WIN-IO-8DDM: 8 Channel Digital I/O Modbus Serial/RS485 Card [[Watch]](https://youtu.be/HtZFjJC3oW0)
 
 ## 
-$\color{Green}\Huge{\textbf{WIN-IO-4DI1DOM | 4 Digital Input & 1 Digital Output Modbus Serial/RS485 Card}}$
+$\color{Green}\Huge{\textbf{WIN-IO-4DI1DOM: 4 Digital Input and 1 Digital Output Modbus Serial/RS485 Card}}$
 1. 🆓WIN-IO-4DI1DOM: 4 Digital Input & 1 Digital Output Modbus Serial Card for Industrial Automation [[Watch]](https://youtu.be/rWcvNCZxu-k)
 
 ## 
-$\color{Green}\Huge{\textbf{WIN-IO-1AI1AO: 1 Analog Input & 1 Analog Output Modbus Serial/RS485 Card}}$
+$\color{Green}\Huge{\textbf{WIN-IO-1AI1AO: 1 Analog Input and 1 Analog Output Modbus Serial/RS485 Card}}$
 
 1. 🆓WIN-IO-1AI1AO: 1 Analog Input & 1 Analog Output Channel Modbus Serial Card for Industrial Automation [[Watch]](https://youtu.be/ZWdIGj6ziQo)
 
 ## 
-$\color{Green}\Huge{\textbf{WIN-IO-8DOM | 8 Digital Output Modbus Serial/RS485 Card}}$
+$\color{Green}\Huge{\textbf{WIN-IO-8DOM: 8 Digital Output Modbus Serial/RS485 Card}}$
 1. 🆓WIN-IO-8DOM: 8 Channel Digital Output Module with Modbus Serial/RTU/RS485 for Industrial Automation [[Watch]](https://youtu.be/LxbZ0dABVg4)
 
 ## 
