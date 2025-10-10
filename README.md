@@ -20,7 +20,7 @@
 
 ---
 
-- Buy Augmatic Technologies Private Limited Products here : [Visit Website](https://www.wittelb.com/)
+- Buy  Products here : [Visit Website](https://www.wittelb.com/)
 
 ### Repository File Structure
 ```markdown
@@ -87,7 +87,7 @@ $\color{Green}\Huge{\textbf{Shorts}}$
 $\color{Green}\Huge{\textbf{Modbus Serial to TCP Converter Gateway | WIN-IO-1RTU-1TCP | WIO-IO-1M1TCP |}}$
 
 1. 🆓Introduction to Modbus Serial to TCP Converter Gateway by Augmatic Technologies | WIO-IO-1M1TCP | [[Watch]](https://youtu.be/sfw59Fxd_P4)
-2. 🆓How to use Modbus Serial to TCP Converter Gateway from Augmatic Technologies Private Limited | [[Watch]](https://youtu.be/uPnyyphCGEQ)
+2. 🆓How to use Modbus Serial to TCP Converter Gateway from  | [[Watch]](https://youtu.be/uPnyyphCGEQ)
 
 ## 
 $\color{Green}\Huge{\textbf{WIN-IO-4DDAM | WIN-IO-4AOMV}}$
@@ -109,9 +109,10 @@ $\color{Green}\Huge{\textbf{WIN-IO-8AIME | 8 Channel Analog Input Modbus TCP/IP 
 1. 🆓Detailed Overview WIN-IO-8AIME: 8 Channel Analog Input Modbus TCP/IP Card | Modbus Analog IO Card | [[Watch]](https://youtu.be/kVwBcsxVo18)
 
 ## 
+
 $\color{Green}\Huge{\textbf{WIN-IO-8DDM | 8 Digital Input & 8 Digital Output Modbus Serial/RS485 Card}}$
 
-1. 🆓WIN-IO-8DDM: 8 Channel Digital I/O Modbus Serial/RS485 Card by Augmatic Technologies Private Limited [[Watch]](https://youtu.be/HtZFjJC3oW0)
+1. 🆓WIN-IO-8DDM: 8 Channel Digital I/O Modbus Serial/RS485 Card [[Watch]](https://youtu.be/HtZFjJC3oW0)
 
 ## 
 $\color{Green}\Huge{\textbf{WIN-IO-4DI1DOM | 4 Digital Input & 1 Digital Output Modbus Serial/RS485 Card}}$
@@ -156,7 +157,7 @@ $\color{Green}\Huge{\textbf{WIN-GW-4G-RS485+ETH | 4G Industrial IoT Gateway}}$
 ## 
 $\color{Green}\Huge{\textbf{WIN-GW-4G+4DDAM | 4G Industrial IoT Gateway}}$
 
-1. ⏳️Getting Started with WIN-GW-4G+4DDAM | 4G Industrial IoT Gateway from Augmatic Technologies Private Limited | [Watch]
+1. ⏳️Getting Started with WIN-GW-4G+4DDAM | 4G Industrial IoT Gateway from  | [Watch]
 2. ⏳️Publish Modbus Device Data and IO Status to MQTT Broker using WIN-GW-4G+4DDAM | 4G Industrial IoT Gateway | [Watch]
 
 ## 
