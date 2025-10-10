@@ -85,11 +85,13 @@ $\color{Green}\Huge{\textbf{Shorts}}$
 
 ## 
 $\color{Green}\Huge{\textbf{Modbus Serial to TCP Converter Gateway | WIN-IO-1RTU-1TCP | WIO-IO-1M1TCP |}}$
+
 1. 🆓Introduction to Modbus Serial to TCP Converter Gateway by Augmatic Technologies | WIO-IO-1M1TCP | [[Watch]](https://youtu.be/sfw59Fxd_P4)
 2. 🆓How to use Modbus Serial to TCP Converter Gateway from Augmatic Technologies Private Limited | [[Watch]](https://youtu.be/uPnyyphCGEQ)
 
 ## 
 $\color{Green}\Huge{\textbf{WIN-IO-4DDAM | WIN-IO-4AOMV}}$
+
 1. 🆓Introduction to WIN-IO-4DDAM Modbus RS485 I/O Card | 4DI | 4DO | 4AI | 24V DC | RS485 | IoT | IIoT | [[Watch]](https://youtu.be/PjcILjFqr3w)
 2. 🆓Introduction to WIN-IO-4AOMV Modbus RS485 Analog Output Card | 4 AO | 24V DC | RS485 | IoT | IIoT | [[Watch]](https://youtu.be/yuYEcCq72X8)
 3. 🆓KEPServerEX with WIN-IO-4AOMV & WIN-IO-4DDAM Modbus RS485 IO Cards via ZLAN5143D Modbus Gateway | [[Watch]](https://youtu.be/AIlAdwCq3hk)
@@ -103,10 +105,12 @@ $\color{Green}\Huge{\textbf{WIN-IO-4DDAM | WIN-IO-4AOMV}}$
 
 ## 
 $\color{Green}\Huge{\textbf{WIN-IO-8AIME | 8 Channel Analog Input Modbus TCP/IP Card}}$
+
 1. 🆓Detailed Overview WIN-IO-8AIME: 8 Channel Analog Input Modbus TCP/IP Card | Modbus Analog IO Card | [[Watch]](https://youtu.be/kVwBcsxVo18)
 
 ## 
 $\color{Green}\Huge{\textbf{WIN-IO-8DDM | 8 Digital Input & 8 Digital Output Modbus Serial/RS485 Card}}$
+
 1. 🆓WIN-IO-8DDM: 8 Channel Digital I/O Modbus Serial/RS485 Card by Augmatic Technologies Private Limited [[Watch]](https://youtu.be/HtZFjJC3oW0)
 
 ## 
@@ -115,6 +119,7 @@ $\color{Green}\Huge{\textbf{WIN-IO-4DI1DOM | 4 Digital Input & 1 Digital Output 
 
 ## 
 $\color{Green}\Huge{\textbf{WIN-IO-1AI1AO | 1 Analog Input & 1 Analog Output Modbus Serial/RS485 Card}}$
+
 1. 🆓WIN-IO-1AI1AO: 1 Analog Input & 1 Analog Output Channel Modbus Serial Card for Industrial Automation [[Watch]](https://youtu.be/ZWdIGj6ziQo)
 
 ## 
@@ -123,10 +128,12 @@ $\color{Green}\Huge{\textbf{WIN-IO-8DOM | 8 Digital Output Modbus Serial/RS485 C
 
 ## 
 $\color{Green}\Huge{\textbf{WIN-PR-AHT21-M | Temperature and Humidity Sensor with Modbus RS485 Output}}$
+
 1. 🆓How to Set Up WIN-PR-AHT21-M | Temperature and Humidity Sensor with Modbus RS485 Output | 5V | [[Watch]](https://youtu.be/5PAe8cIFtgQ)
 
 ## t
 $\color{Green}\Huge{\textbf{WIN-SN-CO-M | Carbon Monoxide Sensor with Modbus RS485 Outpu}}$
+
 1. ⏳️How to Set Up and Read Data from the WIN-SN-CO-M Carbon Monoxide Sensor Using ModScan Software [Watch]
 
 ## 
@@ -135,6 +142,7 @@ $\color{Green}\Huge{\textbf{WIN-SN-TnH-M-M | Temperature and Humidity Sensor wit
 
 ## 
 $\color{Green}\Huge{\textbf{WIN-SN-TnH-M-M | Temperature and Humidity Sensor with Modbus RS485 Output & Digital Display}}$
+
 1. 🆓How to Set Up and Read Data from the WIN-SN-TnH-M-M Temperature and Humidity Sensor (With Display) Using ModScan Software [[Watch]](https://youtu.be/I5yGjNZP_DA)
 
 ## 
@@ -146,6 +154,7 @@ $\color{Green}\Huge{\textbf{WIN-GW-4G-RS485+ETH | 4G Industrial IoT Gateway}}$
 
 ## 
 $\color{Green}\Huge{\textbf{WIN-GW-4G+4DDAM | 4G Industrial IoT Gateway}}$
+
 1. ⏳️Getting Started with WIN-GW-4G+4DDAM | 4G Industrial IoT Gateway from Augmatic Technologies Private Limited | [Watch]
 2. ⏳️Publish Modbus Device Data and IO Status to MQTT Broker using WIN-GW-4G+4DDAM | 4G Industrial IoT Gateway | [Watch]
 
@@ -155,6 +164,7 @@ $\color{Green}\Huge{\textbf{WIN-SN-LUX-M | Luminous Intensity Sensor}}$
 
 ## 
 $\color{Green}\Huge{\textbf{WIN-SN-PM-M | Particulate matter (PM1.0, PM2.5, and PM10) Sensor}}$
+
 1. 🆓Getting Started with WIN-SN-PM-M (With Display) | Particulate matter (PM1.0, PM2.5, and PM10) Sensor | [[Watch]](https://youtu.be/IUPUeoa7Yew)
 2. 🆓Getting Started with WIN-SN-PM-M (Without Display) | Particulate matter (PM1.0, PM2.5, and PM10) Sensor | [[Watch]](https://youtu.be/MmLRW__syCc)
 
