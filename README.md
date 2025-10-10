@@ -154,7 +154,7 @@ $\color{Green}\Huge{\textbf{WIN-SN-TnH-M/Duct: Temperature and Humidity Sensor w
 1. 🆓How to Set Up WIN-SN-TnH-M/Duct | Temperature and Humidity Sensor with Modbus RS485 Output | [[Watch]](https://youtu.be/smsDPag8Hxo)
 
 ## 
-$\color{Green}\Huge{\textbf{WIN-GW-4G-RS485+ETH | 4G Industrial IoT Gateway}}$
+$\color{Green}\Huge{\textbf{WIN-GW-4G-RS485+ETH: 4G Industrial IoT Gateway}}$
 
 ## 
 $\color{Green}\Huge{\textbf{WIN-GW-4G+4DDAM: 4G Industrial IoT Gateway}}$
