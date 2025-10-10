@@ -71,6 +71,7 @@
 ---
 
 $\color{Green}\Huge{\textbf{Shorts}}$
+
 1. 🆓WIN-CN-1M1TCP | WI0-I0-1M1TCP | Modbus RTU to Modbus TCP Converter Gateway | IoT | IIoT | Modbus | [[Watch]](https://youtube.com/shorts/CGiy7umQwQI)
 2. 🆓WIN-IO-4DDAM Modbus Serial IO Card | 4 Digital Input | 4 Digital Output | 4 Analog Input | RS485 | [[Watch]](https://youtube.com/shorts/0lL9aZrErI0)
 3. 🆓Introduction to WIN-GW-4G+4DDAM | 4G Industrial IoT Gateway | 4 DI | 4 DO | 4 AI | 4G SIM | SD Card | Modbus RS485 | [[Watch]](https://youtube.com/shorts/SmIxr9CPEXc)
@@ -78,7 +79,7 @@ $\color{Green}\Huge{\textbf{Shorts}}$
 5. ‼️Introduction to WIN-PR-AHT21-M - Temperature and Humidity Sensor with Modbus RS485 Output [[Watch]](https://youtube.com/shorts/a_qEXdUTPhk?feature=share)
 6. 🆓Introduction to WIN-SN-CO-M - Carbon Monoxide Sensor with Modbus RS485 Output [[Watch]](https://youtube.com/shorts/QB0W_0ZvPiE)
 7. 🆓Introduction to WIN-SN-TnH-M-M - Temperature and Humidity Sensor with Modbus RS485 Output [[Watch]](https://youtube.com/shorts/zXOY6N7M8E4)
-8. 🆓Introduction to WIN-SN-TnH-M-M - Temperature and Humidity Sensor with Modbus RS485 Output & Digital Display [[Watch]](https://youtube.com/shorts/_-iIhy4BqeA)
+8. 🆓Introduction to WIN-SN-TnH-M-M - Temperature and Humidity Sensor with Modbus RS485 Output and Digital Display [[Watch]](https://youtube.com/shorts/_-iIhy4BqeA)
 9. 🆓WIN-SN-TnH-M | Duct Sensor | Temperature and Humidity Sensor with Modbus RS485 Output | Hindi | [[Watch]](https://youtube.com/shorts/iyc8fHOW3Zk)
 10. ⏳️WIN-GW-4G-RS485+ETH | 4G Industrial IoT Gateway | Modbus TCP | Modbus RS485 | 4G | Hindi | SD Card | [Watch]
 11. 🆓Introduction to WIN-SN-LUX-M - Luminous Intensity Sensor with Modbus RS485 Output & 1 Digital Output [[Watch]](https://youtube.com/shorts/AIb85ywxggw?feature=share)
@@ -143,7 +144,8 @@ $\color{Green}\Huge{\textbf{WIN-SN-TnH-M-M | Temperature and Humidity Sensor wit
 1. 🆓How to Set Up and Read Data from the WIN-SN-TnH-M-M Temperature and Humidity Sensor Using ModScan Software [[Watch]](https://youtu.be/TYTRCZw8gXo)
 
 ## 
-$\color{Green}\Huge{\textbf{WIN-SN-TnH-M-M | Temperature and Humidity Sensor with Modbus RS485 Output & Digital Display}}$
+
+$\color{Green}\Huge{\textbf{WIN-SN-TnH-M-M: Temperature and Humidity Sensor with Modbus RS485 Output and Digital Display}}$
 
 1. 🆓How to Set Up and Read Data from the WIN-SN-TnH-M-M Temperature and Humidity Sensor (With Display) Using ModScan Software [[Watch]](https://youtu.be/I5yGjNZP_DA)
 
@@ -163,7 +165,7 @@ $\color{Green}\Huge{\textbf{WIN-GW-4G+4DDAM | 4G Industrial IoT Gateway}}$
 ## 
 $\color{Green}\Huge{\textbf{WIN-SN-LUX-M | Luminous Intensity Sensor}}$
 
-1. 🆓How to Set Up WIN-SN-LUX-M | Luminous Intensity Sensor with Modbus RS485 Output & 1 Digital Output | [[Watch]](https://youtu.be/W26qHC1PGkA)
+1. 🆓How to Set Up WIN-SN-LUX-M | Luminous Intensity Sensor with Modbus RS485 Output and 1 Digital Output | [[Watch]](https://youtu.be/W26qHC1PGkA)
 
 ## 
 $\color{Green}\Huge{\textbf{WIN-SN-PM-M | Particulate matter (PM1.0, PM2.5, and PM10) Sensor}}$
