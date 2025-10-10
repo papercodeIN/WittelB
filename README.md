@@ -120,7 +120,7 @@ $\color{Green}\Huge{\textbf{WIN-IO-4DI1DOM | 4 Digital Input & 1 Digital Output 
 1. 🆓WIN-IO-4DI1DOM: 4 Digital Input & 1 Digital Output Modbus Serial Card for Industrial Automation [[Watch]](https://youtu.be/rWcvNCZxu-k)
 
 ## 
-$\color{Green}\Huge{\textbf{WIN-IO-1AI1AO | 1 Analog Input & 1 Analog Output Modbus Serial/RS485 Card}}$
+$\color{Green}\Huge{\textbf{WIN-IO-1AI1AO: 1 Analog Input & 1 Analog Output Modbus Serial/RS485 Card}}$
 
 1. 🆓WIN-IO-1AI1AO: 1 Analog Input & 1 Analog Output Channel Modbus Serial Card for Industrial Automation [[Watch]](https://youtu.be/ZWdIGj6ziQo)
 
@@ -129,17 +129,17 @@ $\color{Green}\Huge{\textbf{WIN-IO-8DOM | 8 Digital Output Modbus Serial/RS485 C
 1. 🆓WIN-IO-8DOM: 8 Channel Digital Output Module with Modbus Serial/RTU/RS485 for Industrial Automation [[Watch]](https://youtu.be/LxbZ0dABVg4)
 
 ## 
-$\color{Green}\Huge{\textbf{WIN-PR-AHT21-M | Temperature and Humidity Sensor with Modbus RS485 Output}}$
+$\color{Green}\Huge{\textbf{WIN-PR-AHT21-M: Temperature and Humidity Sensor with Modbus RS485 Output}}$
 
 1. 🆓How to Set Up WIN-PR-AHT21-M | Temperature and Humidity Sensor with Modbus RS485 Output | 5V | [[Watch]](https://youtu.be/5PAe8cIFtgQ)
 
 ##
-$\color{Green}\Huge{\textbf{WIN-SN-CO-M | Carbon Monoxide Sensor with Modbus RS485 Outpu}}$
+$\color{Green}\Huge{\textbf{WIN-SN-CO-M: Carbon Monoxide Sensor with Modbus RS485 Outpu}}$
 
 1. ⏳️How to Set Up and Read Data from the WIN-SN-CO-M Carbon Monoxide Sensor Using ModScan Software [Watch]
 
 ## 
-$\color{Green}\Huge{\textbf{WIN-SN-TnH-M-M | Temperature and Humidity Sensor with Modbus RS485 Output}}$
+$\color{Green}\Huge{\textbf{WIN-SN-TnH-M-M: Temperature and Humidity Sensor with Modbus RS485 Output}}$
 
 1. 🆓How to Set Up and Read Data from the WIN-SN-TnH-M-M Temperature and Humidity Sensor Using ModScan Software [[Watch]](https://youtu.be/TYTRCZw8gXo)
 
@@ -150,25 +150,25 @@ $\color{Green}\Huge{\textbf{WIN-SN-TnH-M-M: Temperature and Humidity Sensor with
 1. 🆓How to Set Up and Read Data from the WIN-SN-TnH-M-M Temperature and Humidity Sensor (With Display) Using ModScan Software [[Watch]](https://youtu.be/I5yGjNZP_DA)
 
 ## 
-$\color{Green}\Huge{\textbf{WIN-SN-TnH-M/Duct | Temperature and Humidity Sensor with Modbus RS485 Output}}$
+$\color{Green}\Huge{\textbf{WIN-SN-TnH-M/Duct: Temperature and Humidity Sensor with Modbus RS485 Output}}$
 1. 🆓How to Set Up WIN-SN-TnH-M/Duct | Temperature and Humidity Sensor with Modbus RS485 Output | [[Watch]](https://youtu.be/smsDPag8Hxo)
 
 ## 
 $\color{Green}\Huge{\textbf{WIN-GW-4G-RS485+ETH | 4G Industrial IoT Gateway}}$
 
 ## 
-$\color{Green}\Huge{\textbf{WIN-GW-4G+4DDAM | 4G Industrial IoT Gateway}}$
+$\color{Green}\Huge{\textbf{WIN-GW-4G+4DDAM: 4G Industrial IoT Gateway}}$
 
 1. ⏳️Getting Started with WIN-GW-4G+4DDAM | 4G Industrial IoT Gateway from  | [Watch]
 2. ⏳️Publish Modbus Device Data and IO Status to MQTT Broker using WIN-GW-4G+4DDAM | 4G Industrial IoT Gateway | [Watch]
 
 ## 
-$\color{Green}\Huge{\textbf{WIN-SN-LUX-M | Luminous Intensity Sensor}}$
+$\color{Green}\Huge{\textbf{WIN-SN-LUX-M: Luminous Intensity Sensor}}$
 
 1. 🆓How to Set Up WIN-SN-LUX-M | Luminous Intensity Sensor with Modbus RS485 Output and 1 Digital Output | [[Watch]](https://youtu.be/W26qHC1PGkA)
 
 ## 
-$\color{Green}\Huge{\textbf{WIN-SN-PM-M | Particulate matter (PM1.0, PM2.5, and PM10) Sensor}}$
+$\color{Green}\Huge{\textbf{WIN-SN-PM-M: Particulate matter (PM1.0, PM2.5, and PM10) Sensor}}$
 
 1. 🆓Getting Started with WIN-SN-PM-M (With Display) | Particulate matter (PM1.0, PM2.5, and PM10) Sensor | [[Watch]](https://youtu.be/IUPUeoa7Yew)
 2. 🆓Getting Started with WIN-SN-PM-M (Without Display) | Particulate matter (PM1.0, PM2.5, and PM10) Sensor | [[Watch]](https://youtu.be/MmLRW__syCc)
